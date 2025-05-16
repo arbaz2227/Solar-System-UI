@@ -18,4 +18,5 @@ Light accessibility improvements
 
 Live Demo [https://arbaz2227.github.io/Solar-System-UI/]
 
-[screenshot] [Screenshot 2025-05-16 213948](https://github.com/user-attachments/assets/fd706469-b417-40bd-a5d0-157789cf1dc3)
+[screenshot] [Screenshot 2025-05-16 213948](https://github.com/user-attachments/assets/fd706469-b417-40bd-a5d0-157789cf1dc3)![Screenshot 2025-05-16 214048](https://github.com/user-attachments/assets/a3e5e92d-d56f-4189-9c3e-7e014fbce0ef)
+
