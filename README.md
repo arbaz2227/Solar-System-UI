@@ -10,10 +10,12 @@ Fixed layout issues & alignment
 
 Removed unused CSS classes
 
-Corrected typos 
+Fixed bugs like layout issues, selection glitches & typos
 
 Smoother transitions and hover effects
 
 Light accessibility improvements
 
-Live Demo 
+Live Demo [https://arbaz2227.github.io/Solar-System-UI/]
+
+[screenshot] [Screenshot 2025-05-16 213948](https://github.com/user-attachments/assets/fd706469-b417-40bd-a5d0-157789cf1dc3)
